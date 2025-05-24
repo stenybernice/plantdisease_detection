@@ -1,6 +1,6 @@
 # plantdisease_detection
-a cnn based plant disease detection
-a deep learning-based Convolutional Neural Network (CNN) model has been developed for image classification. 
+A cnn based plant disease detection.
+This is a deep learning-based Convolutional Neural Network (CNN) model has been developed for image classification. 
 The solution involves: 
 Dataset Collection and Preparation: Gathering a dataset of 87,000 RGB images representing 38 classes, including healthy and diseased crop leaves. The dataset will be pre-processed to standardise size, resolution, and quality. 
 Exploratory Data Analysis (EDA): Understanding data characteristics, identifying class balance, and preparing insights for effective modelling. 
